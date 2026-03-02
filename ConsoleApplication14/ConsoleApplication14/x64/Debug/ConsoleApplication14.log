@@ -1,0 +1,8 @@
+﻿  list_realisation.c
+C:\Users\rybin\source\repos\ConsoleApplication14\ConsoleApplication14\list_realisation.c(84,1): warning C4715: create_list: значение возвращается не при всех путях выполнения
+C:\Users\rybin\source\repos\ConsoleApplication14\ConsoleApplication14\list_realisation.c(42,1): warning C4715: get_node: значение возвращается не при всех путях выполнения
+C:\Users\rybin\source\repos\ConsoleApplication14\ConsoleApplication14\list_realisation.c(99,1): warning C4715: create_head: значение возвращается не при всех путях выполнения
+C:\Users\rybin\source\repos\ConsoleApplication14\ConsoleApplication14\list_realisation.c(108,1): warning C4715: get_node_count: значение возвращается не при всех путях выполнения
+C:\Users\rybin\source\repos\ConsoleApplication14\ConsoleApplication14\list_realisation.c(132,1): warning C4715: create_node: значение возвращается не при всех путях выполнения
+C:\Users\rybin\source\repos\ConsoleApplication14\ConsoleApplication14\list_realisation.c(149,1): warning C4715: get_node_index: значение возвращается не при всех путях выполнения
+  ConsoleApplication14.vcxproj -> C:\Users\rybin\source\repos\ConsoleApplication14\x64\Debug\ConsoleApplication14.exe
